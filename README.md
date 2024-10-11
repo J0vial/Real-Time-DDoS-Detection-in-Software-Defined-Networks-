@@ -5,3 +5,4 @@
 <br/> • Utilized advanced data preprocessing techniques (feature selection, data balancing, scaling).
 <br/> • Simulated and detected real-time DDoS attacks.
 <br/> • Contributed to cybersecurity with a combined approach of machine learning and SDN simulation.
+<br/>  Here is the paper link : https://github.com/J0vial/Real-Time-DDoS-Detection-in-Software-Defined-Networks-/blob/main/Thesis_paper.pdf
